@@ -2,7 +2,8 @@
 
 Transform any image into a stunning tile-based mosaic — with an interactive hover feature that reveals the original source region behind each tile.
 
----
+---<img width="1677" height="997" alt="Screenshot 2026-03-26 at 4 01 59 PM" src="https://github.com/user-attachments/assets/a00915a6-881b-4434-a845-94e2032b0264" />
+
 
 ## Features
 
