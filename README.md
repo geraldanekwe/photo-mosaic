@@ -1,6 +1,4 @@
-
-![Screenshot 2025-07-01 at 10 21 59 AM](https://github.com/user-attachments/assets/cee722c6-fc3a-451c-b2fd-3fef49240f5e)
-
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
